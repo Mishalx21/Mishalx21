@@ -2,7 +2,7 @@
 
 # 👋 Hi, This is Mishal Rahman.
 
-  <img src="./banner.svg" alt="Mishal Rahman — Every model begins as noise. Patience turns it into meaning." width="100%" />
+  <img src="./banner_.svg" alt="Mishal Rahman — Every model begins as noise. Patience turns it into meaning." width="100%" />
 
   <!-- Animated wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14183A,50:6B3E6E,100:E59A7A&height=120&section=header&text=&fontSize=60" width="100%" />
